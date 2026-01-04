@@ -15,4 +15,3 @@ public:
 };
 
 #endif // CIRCLE_H
-    text d
